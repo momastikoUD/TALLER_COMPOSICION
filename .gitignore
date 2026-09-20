@@ -1,0 +1,19 @@
+# Compiled Java classes
+/bin/
+
+# VS Code workspace settings
+/.vscode/
+
+# Java build output
+*.class
+out/
+target/
+
+# IDE metadata
+.classpath
+.project
+.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
